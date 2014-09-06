@@ -1,1 +1,18 @@
-["index.md"]
+[
+    "index.md",
+    "what-is-deathma.md",
+    "what-is-ideone.md",
+    [
+        "languages1.md",
+        "languages2.md",
+        "languages3.md",
+        "languages4.md",
+        "languages5.md",
+        "languages6.md"
+    ],
+    "sample.md",
+    "past.md",
+    "magazine.md",
+    "play.md",
+    "fin.md"
+]

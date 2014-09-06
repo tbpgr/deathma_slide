@@ -1,10 +1,4 @@
 
-# デスマコロシアムってなんぞ？
+## デスマコロシアム <!-- .element: class="" -->
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+![Deathma Icon](images/deathma.jpg)
