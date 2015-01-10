@@ -2,6 +2,7 @@
 
 :
 
+* D
 * D (dmd)
 * Erlang
 * F#

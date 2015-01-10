@@ -5,6 +5,7 @@
 * R
 * Ruby
 * Scala
+* Scheme (chicken)
 * Scheme (guile)
 * Smalltalk
 * SQL

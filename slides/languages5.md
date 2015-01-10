@@ -12,6 +12,7 @@
 * Prolog (gnu)
 * Prolog (swi)
 * Python
+* Python (Pypy)
 * Python 3
 
 :

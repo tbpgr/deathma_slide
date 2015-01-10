@@ -5,8 +5,8 @@
 * C
 * C#
 * C++ 4.3.2
-* C++ 4.8.1
-* C++11
+* C++ 4.9.2
+* C++14
 * C99 strict
 * CLIPS
 * Clojure

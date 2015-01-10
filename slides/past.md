@@ -7,3 +7,4 @@
     * <a href="http://togetter.com/li/708671">第5回デスマコロシアムまとめ</a>
     * <a href="http://togetter.com/li/711622">第6回デスマコロシアムまとめ</a>
     * <a href="http://togetter.com/li/721239">第7回デスマコロシアムまとめ</a>
+    * <a href="http://togetter.com/li/755401">第8回デスマコロシアムまとめ</a>
